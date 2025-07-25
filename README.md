@@ -48,12 +48,13 @@ src/
 │       ├── stopwatch.component.html     # UI with buttons and elapsed time
 │       ├── stopwatch.component.scss     # Styling for layout and buttons
 
----
-
+```
 
 ## 📸 Screenshot
 
 ![Stop Watch Screenshot](public/screenshot.png)
+
+---
 
 ## 🚀 Running the Project
 
